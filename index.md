@@ -25,6 +25,7 @@ Syntax highlighted code block
 ![Image](https://50030.github.io/php/php_face.jpg)
 <img src="https://50030.github.io/php/php_face.jpg" />
 ![](https://github.com/50030/php/blob/master/php_face.jpg)
+[Link](https://50030.github.io/php/php_face.jpg) and ![Image](./php_face.jpg)
 [Link](url) and ![Image](src)
 ```
 
