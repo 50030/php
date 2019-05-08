@@ -23,8 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ![Image](https://50030.github.io/php/php_face.jpg)
-![Image](https://50030.github.com/php/php_face.jpg)
-![Image](https://github.com/50030/php/php_face.jpg)
 [Link](url) and ![Image](src)
 ```
 
