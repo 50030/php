@@ -22,7 +22,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Link](./php_face.jpg)
 ![Image](https://50030.github.com/php/php_face.jpg)
 [Link](url) and ![Image](src)
 ```
