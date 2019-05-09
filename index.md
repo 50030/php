@@ -11,7 +11,7 @@
 
 ## 扫描二位码，欢迎试听。
 
-![Image](./weichat.jpg)
+<div align=center>![Image](./weichat.jpg)</div>
 
 ****
 
