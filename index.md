@@ -4,7 +4,7 @@
 
 ![Image](./php_face.jpg)
 
-## 小学课程已经学编程了
+## 小学课程已经学编程了，
 ## 我们有什么不可以？
 
 ![Image](./php_back.jpg)
