@@ -33,6 +33,6 @@ javascript 前端脚本
 
 ## 现在连小学课程都学编程了，我们有什么不可以？
 
-[Link](https://50030.github.io/php/php_face.jpg) and ![Image](./php_face.jpg)
+![Image](./php_face.jpg)
 
 
