@@ -2,7 +2,7 @@
 
 ## 学习内容：
 
-链接地址：https://50030.github.io/php
+本页面链接：https://50030.github.io/php
 
 ![Image](./php_face.jpg)
 
