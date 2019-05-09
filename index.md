@@ -34,5 +34,3 @@ javascript 前端脚本
 ## 现在连小学课程都学编程了，我们有什么不可以？
 
 [Link](https://50030.github.io/php/php_face.jpg) and ![Image](./php_face.jpg)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
